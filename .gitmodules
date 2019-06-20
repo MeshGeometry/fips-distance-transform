@@ -1,0 +1,3 @@
+[submodule "distance_transform"]
+	path = distance_transform
+	url = https://github.com/MeshGeometry/distance_transform.git

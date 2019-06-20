@@ -1,0 +1,9 @@
+#
+# fips-distance-transform
+#
+---
+
+exports:
+    header-dirs: 
+      - distance-transform/include
+
